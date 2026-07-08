@@ -40,7 +40,7 @@ After starting the application, open:
 http://localhost:8080/swagger-ui/index.html
 
 ## Api Documentation
-![Swagger UI]
+![Swagger UI](swagger-ui.png)
 
 ## 👨‍💻 Author
 
